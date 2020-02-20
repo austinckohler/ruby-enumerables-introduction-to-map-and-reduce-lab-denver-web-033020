@@ -49,7 +49,7 @@ total
 end
 
 def reduce_to_all_true(source_array)
-
+total_true = 
 
 end
 
