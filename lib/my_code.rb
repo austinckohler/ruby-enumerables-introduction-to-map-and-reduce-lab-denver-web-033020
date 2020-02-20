@@ -1,6 +1,6 @@
 def map_to_negativize(source_array)
   i = 0 
-  negative = []
+  negative_array = []
   while i < source_array.length do
     
 end
